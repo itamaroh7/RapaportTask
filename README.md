@@ -1,9 +1,9 @@
 # RapaportTask
-Step 1:
-  cd server\diamondmanage
-Step 2:
-  dotnet run
-Step 3:
-  cd client\diamonds-site
-Step 4:
+Step 1:\n
+  cd server\diamondmanage\n
+Step 2:\n
+  dotnet run\n
+Step 3:\n
+  cd client\diamonds-site\n
+Step 4:\n
   npm start
