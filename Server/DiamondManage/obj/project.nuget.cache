@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6jUFzI1Z43W1N7LQsNtyOMjDL32qC8ZVT8AgFQ2dHBCRBU4IpP9YHLapGD/OamrE9U8WcMXSbH+NHVzvQVjzZA==",
+  "dgSpecHash": "PFiofALjEwrVPGdzTr/A7sREtGZc+4q0QBgwRaGU5XBEFEmibd5q4abU3TQgZrFVGIK5AvkxkVZKteDFC07Tzw==",
   "success": true,
-  "projectFilePath": "C:\\FullStackCourse\\ASP\\RapaportTask\\Server\\DiamondManage\\DiamondManage.csproj",
+  "projectFilePath": "C:\\FullStackCourse\\ASP\\RapaportTask\\server\\diamondmanage\\DiamondManage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\csvhelper\\28.0.0\\csvhelper.28.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\6.0.7\\microsoft.aspnetcore.authentication.certificate.6.0.7.nupkg.sha512",

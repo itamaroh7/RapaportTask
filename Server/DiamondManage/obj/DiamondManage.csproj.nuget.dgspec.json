@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\FullStackCourse\\ASP\\RapaportTask\\Server\\DiamondManage\\DiamondManage.csproj": {}
+    "C:\\FullStackCourse\\ASP\\RapaportTask\\server\\diamondmanage\\DiamondManage.csproj": {}
   },
   "projects": {
-    "C:\\FullStackCourse\\ASP\\RapaportTask\\Server\\DiamondManage\\DiamondManage.csproj": {
+    "C:\\FullStackCourse\\ASP\\RapaportTask\\server\\diamondmanage\\DiamondManage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\FullStackCourse\\ASP\\RapaportTask\\Server\\DiamondManage\\DiamondManage.csproj",
+        "projectUniqueName": "C:\\FullStackCourse\\ASP\\RapaportTask\\server\\diamondmanage\\DiamondManage.csproj",
         "projectName": "DiamondManage",
-        "projectPath": "C:\\FullStackCourse\\ASP\\RapaportTask\\Server\\DiamondManage\\DiamondManage.csproj",
+        "projectPath": "C:\\FullStackCourse\\ASP\\RapaportTask\\server\\diamondmanage\\DiamondManage.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\FullStackCourse\\ASP\\RapaportTask\\Server\\DiamondManage\\obj\\",
+        "outputPath": "C:\\FullStackCourse\\ASP\\RapaportTask\\server\\diamondmanage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
