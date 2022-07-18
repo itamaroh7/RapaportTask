@@ -6,7 +6,7 @@ import { DiamondsTable } from "./table/DiamondsTable";
 import AddDiamond from "./AddDiamond";
 import Aos from 'aos'
 import "aos/dist/aos.css"
-import { Spinner } from "react-bootstrap";
+import Spinner from "./Spinner";
 import WelcomeComp from "./WelcomeComp";
 
 function MainPage() {
@@ -69,7 +69,9 @@ function MainPage() {
           data-aos="fade-right"
         >
           {loading ? (
+            <div className="d-flex align-items-center justify-content-center p-3 mt-5 mb-4">
             <Spinner/>
+            </div>
           ) : (
             <DiamondsTable statistics />
           )}

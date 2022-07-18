@@ -10,7 +10,7 @@ function WelcomeComp() {
       <img
         src={Rapaport_logo}
         className="img-fluid"
-        style={{ width: "60%" }}
+        style={{borderRadius:"3%", width: "60%" }}
         alt="Rapaport logo"
       />
       <div className="fst-italic" style={{ fontSize: "4vh" }}>
